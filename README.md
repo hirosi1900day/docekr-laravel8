@@ -1,6 +1,6 @@
 # docker-laravel-demo
 ```
-$ git clone git@github.com:hakuba20xx/docker-laravel-demo.git
+$ git clone このプロジェクトを読み込む
 $ cd docker-laravel-demo
 $ docker-compose up -d --build
 $ docker-compose exec app bash
